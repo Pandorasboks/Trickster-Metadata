@@ -1,0 +1,15 @@
+{
+  "name": "TRICKSTER",
+  "symbol": "TRXTR",
+  "description": "TRICKSTER Token is a digital asset representing ownership of the PANDORA platform.",
+  "uri": "https://trickster.global”,
+"logoURI": "https://github.com/Pandorasboks/Crypto/blob/main/Trickster.jpg",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "CMmWKKJU1EG9x8eg9bhiwS6f1QwC3x75n1mWPNhFherT",
+      "share": 100
+    }
+  ],
+  "verified": true
+}
